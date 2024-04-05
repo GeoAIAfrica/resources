@@ -1,5 +1,10 @@
 # Geospatial Data Science Resources
 
+<p align="center">
+  <img src="static/earth.webp" alt="Earth" width="50%">
+</p>
+
+
 This repository curates a selection of educational resources focused on Geospatial Data Science. It includes introductory materials, as well as advanced tutorials on geospatial analysis, tabular machine learning, deep learning, and interactive mapping. These resources are intended for practitioners and researchers interested in applying data science techniques to geospatial data.
 
 ## Contents
